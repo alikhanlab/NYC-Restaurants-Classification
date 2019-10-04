@@ -20,5 +20,8 @@ Features: 26
 - Data mining goal:
 Classify restaurants according to inspections results.
 
+- Data mining software:
+Weka
+
 - Category groups:
 restaurant, inspection, violation, grade, adjudication, fines, 2018od4a-report, 2018od4a-video, food safety
